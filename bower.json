@@ -1,0 +1,7 @@
+{
+  "name": "madoudou",
+  "version": "0.0.0",
+  "dependencies": {
+    "foundation": "latest"
+  }
+}
