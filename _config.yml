@@ -3,11 +3,11 @@
 # 2. config.build.yml
 # 3. config.yml
 
-name: madoudou
-description: Joets a tissu
+name: Site Name
+description: Generic Site description
 author:
-  name: MaDoudou
-  email: salut@madoudou.ca
+  name: Author Namw
+  email: bonjour@genericsite.ca
 
 # Grunt handles images and assets.
 exclude: ['images', 'css', 'js', 'fonts',
