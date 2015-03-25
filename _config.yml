@@ -5,6 +5,7 @@
 
 name: Site Name
 description: Generic Site description
+gtm: GTM-XXXXXX
 author:
   name: Author Namw
   email: bonjour@genericsite.ca
