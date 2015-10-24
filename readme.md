@@ -2,6 +2,8 @@
 
 - Install all dependencies
 
->> npm install
-   bundle install
-   bower install
+```ruby
+npm install
+bundle install
+bower install
+```
