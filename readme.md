@@ -1,6 +1,6 @@
 ## Instructions
 
-- Install all dependencies
+### Install all dependencies
 
 ```ruby
 npm install
