@@ -1,3 +1,5 @@
+Ready for Foundation 6
+
 ## Instructions
 
 ### Install all dependencies
