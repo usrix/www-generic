@@ -110,7 +110,7 @@ module.exports = function (grunt) {
       options: {
         debugInfo: false,
         lineNumbers: false,
-        loadPath: 'app/_bower_components/foundation/scss'
+        loadPath: 'app/_bower_components/foundation-sites/scss'
       },
       dist: {
         files: [{

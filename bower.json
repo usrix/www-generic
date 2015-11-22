@@ -2,6 +2,6 @@
   "name": "Generic Site",
   "version": "0.0.0",
   "dependencies": {
-    "foundation": "latest"
+    "foundation-sites": "latest"
   }
 }
