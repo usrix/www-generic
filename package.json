@@ -1,6 +1,5 @@
 {
-  "name": "Generic Site",
-  "private": true,
+  "name": "GenericSite",
   "version": "0.0.0",
   "description": "Yeoman workflow for Generic Site",
   "dependencies": {},

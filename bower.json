@@ -1,5 +1,5 @@
 {
-  "name": "Generic Site",
+  "name": "generic-site",
   "version": "0.0.0",
   "dependencies": {
     "foundation-sites": "latest"
