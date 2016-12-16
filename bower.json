@@ -1,7 +1,10 @@
 {
-  "name": "generic-site",
+  "name": "genericsite",
   "version": "0.0.0",
   "dependencies": {
-    "foundation-sites": "latest"
+    "breakpoint-sass": "latest",
+    "susy": "*",
+    "jquery": "2.2.4",
+    "bigfoot": "*"
   }
 }
